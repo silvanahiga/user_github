@@ -1,3 +1,9 @@
+usamos la api de github para traer datos de nuestro usuario.
+
+#React
+#API Context
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
