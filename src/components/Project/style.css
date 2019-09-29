@@ -1,0 +1,14 @@
+.box_project{
+    width: 30%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow:2px 2px 8px #e0e0e0 
+    
+}
+
+
+h1 .project_name {
+    font-size: 10px;  
+}

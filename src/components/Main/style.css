@@ -1,0 +1,18 @@
+.avatar img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    box-shadow:2px 2px 8px #e0e0e0;
+    border: 1px solid #bdbdbd;
+    
+}
+
+h4{
+    margin-top: 3px
+}
+
+.user_name{
+    margin-bottom: 2px
+}
+
